@@ -1,0 +1,6 @@
+.venv/
+.venv.zip
+__pycache__/
+*.pyc
+history/
+Claude outputs/
